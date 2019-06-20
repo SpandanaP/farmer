@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Farmer" max_length="40" name="x_370214_agricultu_farmer" type="collection">
+        <element label="Address" mandatory="true" max_length="40" name="address" type="string"/>
+        <element label="Cost" mandatory="true" max_length="40" name="cost" type="integer"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Organic/inorganic" max_length="40" name="organic_inorganic" type="string"/>
+        <element label="Type of product" mandatory="true" max_length="40" name="type_of_product" type="string"/>
+        <element label="Type of seed" mandatory="true" max_length="40" name="type_of_seed" type="string"/>
+        <element label="Upload image" max_length="40" name="upload_image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="status" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="in progress" sequence="1" value="in progress"/>
+                <element inactive_on_update="false" label="closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element label="image" max_length="40" name="u_image" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="status" mandatory="true" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="in progress" sequence="1" value="in progress"/>
+                <element inactive_on_update="false" label="closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element label="upload a image" mandatory="true" max_length="40" name="u_upload_a_image" type="file_attachment"/>
+        <element label="weight" mandatory="true" max_length="40" name="u_weight" type="integer"/>
+        <element choice="1" label="weight of product" mandatory="true" max_length="40" name="u_weight_of_product" type="integer">
+            <choice/>
+        </element>
+    </element>
+</database>

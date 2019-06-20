@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="customer" max_length="40" name="x_370214_agricultu_customer" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="organic/inorganic" max_length="40" name="organic_inorganic" type="string"/>
+        <element label="PH no" max_length="40" name="ph_no" type="integer"/>
+        <element label="Type of product" max_length="40" name="type_of_product" type="string"/>
+        <element label="Type of seed" max_length="40" name="type_of_seed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="status" mandatory="true" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="in progress" sequence="1" value="in progress"/>
+                <element inactive_on_update="false" label="closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element label="weight" max_length="40" name="weight" type="integer"/>
+    </element>
+</database>

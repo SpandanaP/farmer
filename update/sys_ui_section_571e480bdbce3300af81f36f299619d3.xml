@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="571e480bdbce3300af81f36f299619d3" sys_domain="global" table="x_370214_agricultu_customer" version="3" view="customer_request_reports">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>9b1e480bdbce3300af81f36f299619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>1f1e480bdbce3300af81f36f299619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organic_inorganic</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>9f1e480bdbce3300af81f36f299619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>weight</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>131e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_product</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>931e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>171e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>971e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ph_no</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>1b1e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_seed</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>9b1e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_mail</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>1f1e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_id>9f1e480bdbce3300af81f36f299619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370214_agricultu_customer" sys_domain="global" view="d71e480bdbce3300af81f36f299619d0">571e480bdbce3300af81f36f299619d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_370214_agricultu_customer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:36:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>571e480bdbce3300af81f36f299619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_370214_agricultu_customer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="farmer" source="x_370214_agricultu">2b701faadb823300af81f36f299619f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="farmer">2b701faadb823300af81f36f299619f5</sys_scope>
+            <sys_update_name>sys_ui_section_571e480bdbce3300af81f36f299619d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:36:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="customer request reports" name="customer_request_reports">d71e480bdbce3300af81f36f299619d0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
